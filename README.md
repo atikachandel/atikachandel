@@ -119,50 +119,115 @@
 
 ## 💻 Tech Stack
 
-### Languages
+### 👩‍💻 Languages
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
-### Backend & APIs
+**Core:** Data Structures & Algorithms · Object-Oriented Programming · Problem Solving
+
+### 🎨 Frontend
+
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge\&logo=angular\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+**Core:** Responsive UI · Component-Based Architecture · Web Development
+
+### ⚙️ Backend & APIs
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-### Frontend
+**Core:** API Design · Microservices · Data Pipelines · Authentication · Integration Testing
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### Databases
+### 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-### Cloud & DevOps
+**Core:** Relational Databases · NoSQL · Data Modeling · Query Optimization
 
+### 🤖 AI, Cloud & DevOps
+
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF69B4?style=for-the-badge\&logo=openai\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=FF9900)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge\&logo=awslambda\&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
----
+**Core:** CI/CD · Cloud Infrastructure · Infrastructure Automation · Containerization · Monitoring · YAML · Agile/Scrum
 
+### 🌐 Network & Standards
+
+![SNMP](https://img.shields.io/badge/SNMP-4B5563?style=for-the-badge)
+![SCP](https://img.shields.io/badge/SCP-333333?style=for-the-badge)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-4285F4?style=for-the-badge)
+![SMTP](https://img.shields.io/badge/SMTP-6B7280?style=for-the-badge)
+![SSH](https://img.shields.io/badge/SSH-222222?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge)
+
+**Core:** Network Communication · Secure File Transfer · Remote Access · Healthcare Interoperability
+
+### 🧰 Engineering & Tools
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![DevJump](https://img.shields.io/badge/DevJump-FF69B4?style=for-the-badge&logoColor=white)
+
+**Core:** Clean Architecture · System Design · Debugging · Testing · Version Control · Agile/Scrum
 ## 🧭 Currently Exploring
+<div align="center">
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   🤖 Agentic AI                                     │
-│   ⚡ AI-assisted Developer Tooling                  │
-│   🏗️  Distributed Backend Architecture             │
-│   🔌 Intelligent APIs & Integrations                │
-│   ☁️  Cloud-native Systems                          │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+<table>
+<tr>
+<td align="center" width="700">
+
+<h3>🧭 Currently in my "what can I build next?" era</h3>
+
+<table>
+<tr>
+<td align="center">🤖<br><b>Agentic AI</b></td>
+<td align="center">⚡<br><b>AI Tooling</b></td>
+<td align="center">🏗️<br><b>Distributed Systems</b></td>
+</tr>
+<tr>
+<td align="center">🔌<br><b>Intelligent APIs</b></td>
+<td align="center">☁️<br><b>Cloud-native</b></td>
+<td align="center">🧠<br><b>System Design</b></td>
+</tr>
+</table>
+
+<br>
+
+<code>learning</code> → <code>building</code> → <code>breaking</code> → <code>debugging</code> → <code>shipping</code> ✨
+
+</td>
+</tr>
+</table>
+
+</div>───────────────────────────────────────────┘
 ```
 
 I'm particularly interested in the intersection of **software engineering + AI** — building systems where intelligent agents can reason, interact with APIs, automate workflows, and make developers more productive.
