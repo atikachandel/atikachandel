@@ -11,7 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="Coding animation" />
+  <img
+    src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+    width="280"
+    alt="Girl coding animation"
+  />
 </p>
 
 ---
