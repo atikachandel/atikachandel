@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Atika Chandel</h1> <h3 align="center">Software Engineer | C# · ASP.NET Core · GraphQL | Backend systems & AI-assisted engineering</h3> <p align="center"> <a href="https://www.linkedin.com/in/atikachandel" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:youremail@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://leetcode.com/atikachandel" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> </p>
+💫 About Me
+🎓 B.Tech in Computer Science from KIIT Bhubaneswar (CGPA 8.61)
+💼 Software Engineer 1 at ModMed, Hyderabad — secure design, GraphQL data pipelines, and ASP.NET Core diagnostics tooling
+🔧 Previously a Service Engineer Intern at Providence India — cloud automation with Python + Azure, CI/CD pipelines, Power BI dashboards across 200+ sites
+🤖 Building with agentic AI and LLM APIs (OpenAI, Gemini) alongside traditional backend engineering
+📄 Published ML research on healthcare chatbot classification (SVM, Decision Trees)
+🌍 Open to relocating internationally for backend/software engineering roles
+⚡ Mentor at GirlScript Summer of Code, former IoT Lab Technical Lead
+🛠️ Tech Stack
+<p> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <br/> <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </p>
+🚀 Featured Projects
 
-<!--
-**atikachandel/atikachandel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GutPulse — React.js OpenAI API Gemini AI Django C# Smartphone-based sensor data acquisition system as a low-cost IoT alternative; Python backend ingests real-time proxy sensor streams with signal analysis to surface health triage indicators.
 
-Here are some ideas to get you started:
+EventServe — React.js Gemini API Agentic AI Node.js Event services marketplace using agentic task loops for autonomous vendor matching, real-time scheduling, and dynamic pricing within a modular, secure React frontend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=atikachandel&show_icons=true&theme=nightowl&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikachandel&layout=compact&theme=nightowl&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=atikachandel&theme=nightowl&hide_border=true" /> </p>
+🏆 Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=atikachandel&theme=nightowl&no-frame=false&no-bg=false&margin-w=4" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=atikachandel&color=blue&style=flat" alt="profile views" /> </p>
