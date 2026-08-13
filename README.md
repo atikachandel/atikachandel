@@ -1,21 +1,53 @@
-<h1 align="center">Hi 👋, I'm Atika Chandel</h1> <h3 align="center">Software Engineer | C# · ASP.NET Core · GraphQL | Backend systems & AI-assisted engineering</h3> <p align="center"> <a href="https://www.linkedin.com/in/atikachandel" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:youremail@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://leetcode.com/atikachandel" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> </p>
-💫 About Me
-🎓 B.Tech in Computer Science from KIIT Bhubaneswar (CGPA 8.61)
-💼 Software Engineer 1 at ModMed, Hyderabad — secure design, GraphQL data pipelines, and ASP.NET Core diagnostics tooling
-🔧 Previously a Service Engineer Intern at Providence India — cloud automation with Python + Azure, CI/CD pipelines, Power BI dashboards across 200+ sites
-🤖 Building with agentic AI and LLM APIs (OpenAI, Gemini) alongside traditional backend engineering
-📄 Published ML research on healthcare chatbot classification (SVM, Decision Trees)
-🌍 Open to relocating internationally for backend/software engineering roles
-⚡ Mentor at GirlScript Summer of Code, former IoT Lab Technical Lead
-🛠️ Tech Stack
-<p> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <br/> <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </p>
-🚀 Featured Projects
+<h1 align="center">Hi, I'm Atika Chandel 👋</h1>
+<h3 align="center">Software Engineer building backend systems, APIs, and AI-assisted tooling</h3>
 
-GutPulse — React.js OpenAI API Gemini AI Django C# Smartphone-based sensor data acquisition system as a low-cost IoT alternative; Python backend ingests real-time proxy sensor streams with signal analysis to surface health triage indicators.
+<p align="right">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
+</p>
 
-EventServe — React.js Gemini API Agentic AI Node.js Event services marketplace using agentic task loops for autonomous vendor matching, real-time scheduling, and dynamic pricing within a modular, secure React frontend.
+### 💫 About Me
 
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=atikachandel&show_icons=true&theme=nightowl&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikachandel&layout=compact&theme=nightowl&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=atikachandel&theme=nightowl&hide_border=true" /> </p>
-🏆 Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=atikachandel&theme=nightowl&no-frame=false&no-bg=false&margin-w=4" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=atikachandel&color=blue&style=flat" alt="profile views" /> </p>
+- 💼 Software Engineer at **ModMed**, working on multi-service GraphQL data pipelines and diagnostics tooling in ASP.NET Core
+- ⚙️ Built a rule-based backend scheduling engine and contributed to an HL7 integration used in production clinical workflows
+- ☁️ Previously at **Providence India**, automating cloud infrastructure with Python and Azure, and building analytics dashboards across 200+ sites
+- 🧠 Working across C#/.NET, Python, TypeScript, and Java, with experience in cloud platforms, containerization, and CI/CD
+- 📄 Published ML research on classification models for healthcare applications
+- 🌍 B.Tech in Computer Science, KIIT Bhubaneswar
+- 🔭 Currently exploring agentic AI systems and distributed backend architecture
+
+### 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atikachandel)
+
+### 🛠️ Tech Stack
+
+![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=atikachandel&show_icons=true&theme=nightowl&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikachandel&layout=compact&theme=nightowl&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atikachandel&theme=nightowl&hide_border=true" />
+</p>
+
+<!--START_SECTION:activity-->
+<!-- This section fills automatically with your 5 most recent commits/PRs/issues once the workflow below is set up -->
+<!--END_SECTION:activity-->
